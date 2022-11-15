@@ -1,0 +1,4 @@
+- Thay lại phần config
+- add file vao mobaxterm
+- cài package.js
+- host bằng pm2
